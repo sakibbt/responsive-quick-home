@@ -1,0 +1,339 @@
+/*
+    # screen resulation : 279px to 319px;
+    # devices: most of the smart phone in galaxy fold.
+ */
+ 
+ @media (min-width: 279px) and (max-width: 319px){
+           /* css start  */
+ .container{
+    width: 95%;
+   
+}
+.row{
+    width: 100%;
+    float: left;
+}
+.col-12{
+    width: 100%;
+    float: left;
+}
+.col-6{
+    width: 100%;
+    float: left;
+}
+.col-4{
+    width: 100%;
+    float: left;
+}
+.header .logo{
+    width :100%;
+    display: block;
+    text-align: center;
+
+}
+.header .navbar{
+    text-align: left; 
+}
+.header .navbar li a{
+    font-size: 10px;
+    margin: 10px 0px 0px 12px;
+}
+.banner{
+    padding: 30px 0px;
+}
+.banner h1{
+    font-size:21px;
+}
+.banner p{
+    font-size: 10px;
+}
+.success{
+    padding: 30px 0px;
+}
+.success .left-success{
+    text-align: center;
+}
+.success .left-success h1{
+    margin: 0px;
+    font-size: 21px;
+}
+.success .left-success p{
+    margin: 0px;
+    font-size: 10px;
+}
+.success .right-success{
+    text-align: center;
+}
+.success .right-success h1{
+    margin: 0px;
+    font-size: 21px;
+}
+.feature{
+    padding: 30px 0px;
+}
+.inner-feature{
+     margin: 0px 10px 15px 0px;
+}
+.inner-feature h4{
+    font-size: 14px;
+}
+.inner-feature p{
+    font-size: 10px;
+
+            /* css end  */
+ }
+
+
+}
+
+/*
+    # screen resulation : 320px to 480px;
+    # devices: most of the smart phone.
+ */
+ 
+ @media (min-width: 320px) and (max-width: 480px){
+           /* css start  */
+.container{
+    width: 95%;
+   
+}
+.row{
+    width: 100%;
+    float: left;
+}
+.col-12{
+    width: 100%;
+    float: left;
+}
+.col-6{
+    width: 100%;
+    float: left;
+}
+.col-4{
+    width: 100%;
+    float: left;
+}
+.header .logo{
+    width: 100%;
+    text-align: center;
+    display: block;
+
+}
+
+.header .navbar{
+    text-align: left;
+}
+.header .navbar li a{
+    font-size: 10px;
+}
+.banner{
+    padding: 30px 0px;
+}
+.banner h1{
+    font-size:24px;
+}
+.banner p{
+    font-size: 12px;
+}
+.success{
+    padding: 30px 0px;
+}
+.success .left-success{
+    text-align: center;
+}
+.success .left-success h1{
+    margin: 0px;
+    font-size: 23px;
+}
+.success .left-success p{
+    margin: 0px;
+    font-size: 12px;
+}
+.success .right-success{
+    text-align: center;
+}
+.success .right-success h1{
+    margin: 0px;
+    font-size: 26px;
+}
+.feature{
+    padding: 30px 0px;
+}
+.inner-feature{
+     margin: 0px 11px 13px;
+
+    }
+.inner-feature h4{
+    font-size: 14px;
+}
+.inner-feature p{
+    font-size: 10px;
+
+            /* css end  */
+ }
+
+
+}
+
+/*
+    # screen resulation : 481px to 767px;
+    # devices: most of the high resulatuion mobile and low resulation tab.
+ */
+ @media (min-width: 481px) and (max-width: 767px){
+
+          /* css start  */
+
+.container{
+    width: 95%;
+   
+}
+.row{
+    width: 100%;
+    float: left;
+}
+.col-12{
+    width: 100%;
+    float: left;
+}
+.col-6{
+    width: 100%;
+    float: left;
+}
+.col-4{
+    width: 100%;
+    float: left;
+}
+.header .logo{
+    width :100%;
+    display: block;
+    text-align: center;
+
+}
+.header .navbar{
+    text-align: left;
+}
+.header .navbar li a{
+    font-size: 13px;
+}
+.banner{
+    padding: 40px 0px;
+}
+.banner h1{
+    font-size:28px;
+}
+.banner p{
+    font-size: 13px;
+}
+.success{
+    padding: 40px 0px;
+}
+.success .left-success{
+    text-align: center;
+}
+.success .left-success h1{
+    margin: 0px;
+    font-size: 28px;
+}
+.success .left-success p{
+    margin: 0px;
+    font-size: 13px;
+}
+.success .right-success{
+    text-align: center;
+}
+.success .right-success h1{
+    margin: 0px;
+    font-size: 28px;
+}
+.feature{
+    padding: 40px 0px;
+}
+.inner-feature{
+     margin: 0px 22px 35px;
+}
+
+ 
+  /* css end  */
+}
+
+
+/*
+    # screen resulation : 768px to 1024px;
+    # devices: most of the tab  and mini notebook.
+ */
+ @media (min-width: 768px) and (max-width: 1024px){
+
+   /* css start  */
+
+.container{
+    width: 95%;
+   
+}
+.row{
+    width: 100%;
+    float: left;
+}
+.col-12{
+    width: 100%;
+    float: left;
+}
+.col-6{
+    width: 100%;
+    float: left;
+}
+.col-4{
+    width: 100%;
+    float: left;
+}
+.header .logo{
+    width :100%;
+    display: block;
+    text-align: center;
+
+}
+.header .navbar{
+    text-align: center;
+}
+.header .navbar li a{
+    font-size: 20px;
+}
+.banner{
+    padding: 40px 0px;
+}
+.banner h1{
+    font-size:30px;
+}
+.banner p{
+    font-size: 15px;
+}
+.success{
+    padding: 50px 0px;
+}
+.success .left-success{
+    text-align: center;
+}
+.success .left-success h1{
+    margin: 0px;
+    font-size: 30px;
+}
+.success .left-success p{
+    margin: 0px;
+    font-size: 15px;
+}
+.success .right-success{
+    text-align: center;
+}
+.success .right-success h1{
+    margin: 0px;
+    font-size: 30px;
+}
+.feature{
+    padding: 50px 0px;
+}
+.inner-feature{
+     margin: 0px 22px 30px 55px;
+}
+
+  /* css end  */
+}
+
